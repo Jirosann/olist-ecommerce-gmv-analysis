@@ -1,0 +1,12 @@
+# Olist data is downloaded separately (see data/README.md)
+data/**/*.csv
+data/**/*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+venv/
+.venv/
+.env
